@@ -1,6 +1,6 @@
 # _VideoTube Backend
 
-A robust backend API for a video streaming platform built with Node.js, Express, and MongoDB. Vidly provides a feature-rich video streaming experience with advanced user preferences, analytics, and content management capabilities.
+A robust backend API for a video streaming platform built with Node.js, Express, and MongoDB. _VideoTube provides a feature-rich video streaming experience with advanced user preferences, analytics, and content management capabilities.
 ## 🚀 Features
 
 ### Core Features
