@@ -46,7 +46,7 @@ State Management: Redux Toolkit & React-Redux
 
 HTTP Client: Axios
 
-Styling & UI: Tailwind CSS (assumed), React Icons
+Styling & UI: Tailwind CSS, React Icons
 
 Notifications: React Toastify
 
